@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net9.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <PublishAot>true</PublishAot>
+        <IlcTrimMetaData>true</IlcTrimMetaData>
+        <LangVersion>default</LangVersion>
+        <Company>Shaoming Studio</Company>
+        <Product>The Great Tale of Misono Mika in the Wonder World Generator</Product>
+        <NeutralLanguage>ko-KR</NeutralLanguage>
+        <IsPackable>false</IsPackable>
+        <AssemblyVersion>2.0.0</AssemblyVersion>
+        <FileVersion>2.0.0</FileVersion>
+    </PropertyGroup>
+
+</Project>

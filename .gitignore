@@ -1,0 +1,25 @@
+﻿# 빌드 결과물
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+
+# IDE 파일
+.vs/
+.idea/
+*.user
+*.suo
+*.userprefs
+*.sln.docstates
+
+# 생성된 파일
+WaohStory.txt
+
+# NuGet 패키지
+packages/
+*.nupkg
+
+# 기타
+.DS_Store
+*~
