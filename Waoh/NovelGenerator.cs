@@ -108,7 +108,7 @@ internal class NovelGenerator
         Console.WriteLine(message);
     }
 
-    private void QuitProgram()
+    private static void QuitProgram()
     {
         Console.WriteLine("아무 키나 눌러서 종료해요!");
         Console.ReadKey();
