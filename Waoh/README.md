@@ -4,7 +4,7 @@ A fun console application that generates nonsense novels using Korean interjecti
 
 ## Requirements
 
-- .NET 9.0 SDK or later
+- .NET 10.0 SDK or later
 - Compatible operating system (Windows, macOS, or Linux)
 
 ## Building
